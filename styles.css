@@ -1,4 +1,9 @@
 /*  your css code here. If applicable */
+.book-library{
+	width:800;
+	background-color:#ffffff;
+	
+}
 
 body{
 	background-color:#f8f8f8;
@@ -7,7 +12,7 @@ body{
 } 
 .book{
 	height:350;
-	width:900px;
+	width:800px;
 	background-color:#ffffff;
 	
 }
