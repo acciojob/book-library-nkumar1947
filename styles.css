@@ -19,13 +19,14 @@ body{
 .author,p{
 	color: #777777; 
 	text-align:left;
-	margin-left: auto;
+	margin-left: 25px;;
 	
 }
 .price-tag{
 	color: white;
-	width:800px;
+	width:750px;
 	background-color:#2ecc71;
+	margin:30px;
 	
 	
 }
