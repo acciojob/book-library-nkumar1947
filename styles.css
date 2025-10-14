@@ -9,18 +9,18 @@ body{
 	height:50;
 	width:900px;
 	background-color:#ffffff;
-	justify-content: center;
+	
 }
 .author,p{
 	color: #777777; 
 	text-align:left;
 	margin-left: auto;
-	justify-content: center;
+	
 }
 .price-tag{
 	color: white;
 	width:800px;
 	background-color:#2ecc71;
-	justify-content: center;
+	
 	
 }
