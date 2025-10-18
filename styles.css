@@ -1,7 +1,7 @@
 /*  your css code here. If applicable */
 .book-library{
 	background-color:#ffffff;
-text-align: center;
+text-align:box-shadow;
 }
 
 body{
@@ -10,7 +10,7 @@ body{
 	justify-content: center;
 } 
 .book{
-	height:420px;
+	height:350;
 	width:800px;
 	background-color:#ffffff;
 	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -18,11 +18,10 @@ body{
 	margin:15px;
 	
 }
-.author,h2{
+.author,p,h2{
 	color: #777777; 
 	text-align:left;
-	margin-left: 25px;
-	
+	margin-left: 25px;;
 	
 }
 .price-tag{
