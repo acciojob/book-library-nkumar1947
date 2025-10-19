@@ -1,36 +1,50 @@
-/*  your css code here. If applicable */
-.book-library{
-	background-color:#ffffff;
-text-align:box-shadow;
-}
+/* your css code here. If applicable */
 
 body{
 	background-color:#f8f8f8;
-	text-align:center;
-	justify-content: center;
-} 
-.book{
-	height:350;
-	width:800px;
+}
+.book-library{
 	background-color:#ffffff;
-	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-	padding:15px;
-	margin:15px;
-	
+	width:500px;	
 }
-.author,p,h2{
-	color: #777777; 
-	text-align:left;
-	margin-left: 25px;;
-	
-}
-.price-tag{
-	color: white;
-	width:750px;
-	background-color:#2ecc71;
-	margin:30px;
-	}
-
-.head{
+h1{
 	text-align:center;
-	width:800px;
+	margin-top:5px;
+	}
+.book{
+	background-color:rgb(150, 150, 150);
+    margin-bottom: 10px;
+    padding-bottom: 20px;
+}
+.book-details{
+	display:block;
+	margin:0;
+	background-color:rgb(46, 204, 113); /* Corrected property name */
+    border-radius: 5px; /* Added border-radius as per test */
+    color: rgb(255, 255, 255); /* Added color as per test */
+}
+h2,p{
+    padding: 2px 5px;
+	margin:0;
+	}
+p{
+	color:rgb(119, 119, 119); 
+	}
+h2{
+	color:rgb(255, 255, 255); 
+	}
+img{
+	width:120px;
+	margin-left:190px;
+	margin-top:5px;
+		
+	}
+.price {
+  margin: 10px auto 0;
+  border-radius: 6px;
+  background-color: #2ecc71;
+  color: #ffffff;
+  text-align: center;
+  padding: 5px 10px;
+  width: fit-content;
+}
